@@ -1,8 +1,7 @@
 # Adam-X: Your Terminal AI Coding Assistant
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adam/adam-x/main/assets/adam-x-logo.png" alt="Adam-X Logo" width="200">
-</p>
+![adam-x-inerface](https://github.com/user-attachments/assets/6e7914c7-fae3-4364-ab0e-017fdd22305c)
+
 
 ## Introduction
 
